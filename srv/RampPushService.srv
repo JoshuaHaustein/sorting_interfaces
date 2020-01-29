@@ -1,0 +1,7 @@
+# input
+float32 v  # translational vel
+float32 w  # angular vel
+float32 t # duration of plateau
+float32 theta # direction relative to current robot pose
+---
+bool success
